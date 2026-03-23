@@ -1,0 +1,1 @@
+{\n  "name": "qr-menu-app",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "14.2.5",\n    "react": "18",\n    "react-dom": "18",\n    "firebase": "^9.16.0",\n    "tailwindcss": "^2.2.19"\n  }\n}
